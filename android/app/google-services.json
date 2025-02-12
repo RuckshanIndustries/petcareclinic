@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286798205949",
+    "firebase_url": "https://petcareclinicnew-default-rtdb.firebaseio.com",
+    "project_id": "petcareclinicnew",
+    "storage_bucket": "petcareclinicnew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286798205949:android:ed2bd476938695157d3f94",
+        "android_client_info": {
+          "package_name": "com.petcareclinic.petcareclinic.pet_care_clinic_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_4Z_6igRaMGMMNLVR5FdDCfc7oCALDIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
